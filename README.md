@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yasjcarvalho
 - 👀 I’m interested in HTML, CSS, JAVASCRIPT, PYTHON
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on HTML
 - 📫 How to reach me yasmin.carvalho@igdema.ufal.br
 
 <!---
