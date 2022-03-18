@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasjcarvalho
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT, PYTHON
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in HTML, CSS, JAVASCRIPT
+- 🌱 I’m currently student of IFAL - FEDERAL INSTITUTE OF ALAGOAS
 - 📫 How to reach me yasmin.carvalho@igdema.ufal.br
 
 <!---
