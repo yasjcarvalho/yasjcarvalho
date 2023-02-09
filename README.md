@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yasjcarvalho
 - 👀 I’m interested in HTML, CSS, JAVASCRIPT
 - 🌱 I’m currently student of IFAL - FEDERAL INSTITUTE OF ALAGOAS in the area of web development
-- 📫 How to reach me yjnc1@luno.ifal.edu.br
+- 📫 How to reach me yjnc1@aluno.ifal.edu.br
 
 <!---
 yasjcarvalho/yasjcarvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
