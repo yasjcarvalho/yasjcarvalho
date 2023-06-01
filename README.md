@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasjcarvalho
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT, NODEJS, MYSQL, JAVA
+- 👀 I’m interested in REACTJS and REACTNATIVE.
 - 🌱 I’m currently student of IFAL - FEDERAL INSTITUTE OF ALAGOAS in the area of web development
 - 📫 How to reach me yjnc1@aluno.ifal.edu.br
 
